@@ -26,4 +26,8 @@ With these functions you can:
 * surround selected text with backticks for execution as inline R code in an R Markdown document (<code>selection</code> becomes <code>\`r selection\`</code>)
 * surround selected text with backticks for execution as an R code chunk in an R Markdown document (<code>selection</code> is surrounded by <code>\`\`\`{r}</code> above and <code>\`\`\`</code> below)
 
+This gif shows each one in action:
+
+<img src='man/figures/backtick.gif' alt='Gif of RStudio script pane. An RStudio addin called backtick is being used to insert a single backtick, surround selected text with bacticks, surround selected text with backticks as inline R code, and surround selected text with an R code chunk.' width=75%>
+
 Leave an issue or provide a PR for suggestions or additions.

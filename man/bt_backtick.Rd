@@ -7,5 +7,7 @@
 bt_backtick()
 }
 \description{
-Insert a single backtick.
+Insert a single backtick. In R Markdown file, one backtick will be inserted.
+RStudio automatically adds a second backtick when this function is used in
+an R script.
 }
