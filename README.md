@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+[![R-CMD-check](https://github.com/matt-dray/backtick/workflows/R-CMD-check/badge.svg)](https://github.com/matt-dray/backtick/actions)
 <!-- badges: end -->
 
 Is the backtick key, <kbd>`</kbd>, [missing from your keyboard](https://commons.wikimedia.org/wiki/File:Italian_Keyboard_layout.svg)? Has it been [mapped for use by other software](https://twitter.com/ShinyBlackShoe/status/1494987656924737537?s=20&t=QlPfudvICLEaFcyTSoE9QQ)? Scratch your backtick itch with {backtick}.
