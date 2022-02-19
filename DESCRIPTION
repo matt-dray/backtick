@@ -1,0 +1,15 @@
+Package: backtick
+Title: Insert Backticks And Backtick Structures
+Version: 0.0.0.9000
+Authors@R: person(
+    "Matt", "Dray", 
+    email = "mwdray@gmail.com",
+    role = c("aut", "cre"))
+Description: Insert a backtick, surround text with backticks, or surround text
+    with backticks to demarcate as inline or chunked R code in an R markdown
+    document. Intended for use as an RStudio Addin.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2

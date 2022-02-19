@@ -1,0 +1,27 @@
+Name: Insert Backtick
+Description: Insert a single backtick. In R Markdown file, one backtick will be
+    inserted. RStudio automatically adds a second backtick when this function is
+    used in an R script.
+Binding: bt_backtick
+Interactive: false
+
+Name: Insert Backticks
+Description: Surround selected text with backticks. Use it to style strings as
+    code when rendering an R Markdown file, or to reference variable names that
+    contain spaces.
+Binding: bt_backticks
+Interactive: false
+
+Name: Insert Inline R Code
+Description: Surround selected text with backticks and begin with an 'r'. Use
+    this to demarcate inline R code in R Markdown so that it's executed on
+    render.
+Binding: bt_inline
+Interactive: false
+
+Name: Insert Chunk
+Description: Place selected text inside an R Markdown chunk. Places triple
+    backticks above and below the selection, with an 'r' in curly braces after
+    the first set. The content will be executed on render.
+Binding: bt_chunk
+Interactive: false
