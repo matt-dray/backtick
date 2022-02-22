@@ -6,7 +6,15 @@
 \alias{backtick-package}
 \title{backtick: Insert Backticks And Backtick Structures}
 \description{
-Insert a backtick, surround text with backticks, or surround text with backticks to demarcate as inline or chunked R code in an R markdown document. Intended for use as an RStudio Addin.
+Insert into an R script a backtick; surround text with backticks; or surround text with backticks to demarcate inline or chunked R code in an R Markdown document. Intended for use as an RStudio Addin.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/co-analysis/backtick}
+  \item Report bugs at \url{https://github.com/co-analysis/backtick/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Matt Dray \email{mwdray@gmail.com}
